@@ -15,6 +15,7 @@ Airtificial-Intelligent Codes
 ## Built With
 
 * [Python](https://www.w3schools.com/python/) - Programming language
+* [Google Colab](https://colab.research.google.com) - Colab allows anybody to write and execute arbitrary python code through the browser
 
 
 
