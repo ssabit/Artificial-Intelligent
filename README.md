@@ -1,5 +1,5 @@
 
-# Airtificial-Intelligent
+# Artificial-Intelligent
 
 <!--- See https://shields.io for others or to customize this set of shields.  --->
 ![GitHub language count](https://img.shields.io/github/languages/count/ssabit/Airtificial-Intelligent?style=flat-square)
